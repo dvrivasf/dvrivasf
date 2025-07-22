@@ -23,14 +23,6 @@ I'm an analytically driven professional with 5+ years of cross-functional experi
 
 ---
 
-## Achievements  
-- President’s Club Award (Top 1% globally at Hexagon)  
-- €8M pipeline generated in <12 months  
-- 35% performance increase in global AI optimization project  
-- Speaker at HexTalk AI Presentation (+1,000 audience)  
-
----
-
 ## Certifications  
 - Minor in Digital Transformation & Agile Methodologies  
 - Scrum, Kanban & Innovation Management  
@@ -47,8 +39,9 @@ I'm an analytically driven professional with 5+ years of cross-functional experi
 
 ## Recognitions & Highlights
 - 🎤 Speaker at HexTalk (AI topics for 1,000+ global attendees)  
-- 🏆 President’s Club Award at Hexagon  
-- 🚀 €8M+ commercial pipeline generated in <12 months focused on digital solutions: digital twin, document management, and operational excellence software 
+- 🏆 President’s Club Award at Hexagon (Top 1% globally at Hexagon)
+- 🚀 €8M+ commercial pipeline generated in <12 months focused on digital solutions: digital twin, document management, and operational excellence software
+- 35% team performance increase in global AI optimization project
 - 👩‍🎓 Current student at IE University (MSc in Data Science, Business Analytics & AI)
  
 ---
