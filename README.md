@@ -56,11 +56,6 @@ I'm an analytically driven professional with 5+ years of cross-functional experi
 - **Minor in Sustainability & Business in Asia** – The Hague University of Applied Sciences (2021)  
   GPA: 9.4/10 • Focus on international business, circular economy, and impact strategy
 
-## Let's Connect  
-Reach out if you're working on data strategy, AI-driven innovation, or exploring collaboration opportunities:  
-- 📧 [Email](mailto:dvrivasf@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/danielavalentinarivas)
-  
 ---
 
 ## Professional Experience  
@@ -81,6 +76,13 @@ Reach out if you're working on data strategy, AI-driven innovation, or exploring
 
 - **Operations Coordinator – Le Cordon Bleu Madrid** | Jan 2022 – Dec 2022  
   Led platform optimization (+35% efficiency) and reduced international complaints by 82%.
+
+---
+
+## Let's Connect  
+Reach out if you're working on data strategy, AI-driven innovation, or exploring collaboration opportunities:  
+- 📧 [Email](mailto:dvrivasf@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/danielavalentinarivas)
 
 ---
 ## Visitors  
