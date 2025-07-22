@@ -46,10 +46,41 @@ I'm an analytically driven professional with 5+ years of cross-functional experi
  
 ---
 
+## Education  
+- **MSc in Data Science, Business Analytics & AI** – IE University (2025–2026)  
+  Currently pursuing. Focus on real-world analytics, machine learning, and data-driven business strategy.
+
+- **BSc in Business Administration** + Minor in Digital Transformation & Agile Methodologies – Universidad Francisco de Vitoria (2018–2022)  
+  GPA: 9.2/10 • Honors in Innovation, Leadership, and Final Thesis • Scrum/Kanban in business consulting
+
+- **Minor in Sustainability & Business in Asia** – The Hague University of Applied Sciences (2021)  
+  GPA: 9.4/10 • Focus on international business, circular economy, and impact strategy
+
 ## Let's Connect  
 Reach out if you're working on data strategy, AI-driven innovation, or exploring collaboration opportunities:  
 - 📧 [Email](mailto:dvrivasf@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/danielavalentinarivas)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/danielavalentinarivas)
+  
+---
+
+## Professional Experience  
+- **Account Manager – Hexagon (Spain & Portugal)** | Feb 2025 – Present  
+  Managing 40+ enterprise accounts in AI, IoT, and Digital Twin solutions. Closed €80K deal in 5 weeks.  
+  *Focus: data-driven strategy, digital transformation, operational performance.*
+
+- **Account Development Consultant – Hexagon** | Nov 2023 – Feb 2025  
+  Led a global AI optimization project (+35% productivity), generated €8M+ pipeline.  
+  *Awards: President’s Club & Chairman’s Award • Focused on sales ops + AI-backed performance.*
+
+- **Key Account Manager – Curtice Brothers** | Feb 2023 – Nov 2023  
+  Delivered market entry strategy for Spain. Achieved profitability in 5 months.  
+  *Secured national partnerships and boosted client retention to 95%.*
+
+- **Account Manager – Glovo** | Dec 2022 – Feb 2023  
+  Designed commercial campaigns and improved partner sales by 13% MoM.
+
+- **Operations Coordinator – Le Cordon Bleu Madrid** | Jan 2022 – Dec 2022  
+  Led platform optimization (+35% efficiency) and reduced international complaints by 82%.
 
 ---
 ## Visitors  
