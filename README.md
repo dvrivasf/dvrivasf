@@ -40,9 +40,17 @@ I'm an analytically driven professional with 5+ years of cross-functional experi
 
 ## Projects  
 - **Customer Churn Analysis for NovaBank**: Data modeling, predictive analysis, business recommendations  
-- **SARIMA Forecasting for Unemployment Trends**: Time series transformation and model deployment  
-- **TrailMix – The AI Trend Radar** *(in progress)*: A prototype for detecting gourmet & sustainable product trends using Spark and Jupyter  
+- **SARIMA Forecasting for Unemployment Trends**: Time series transformation and model deployment
+- **Catch & Query – Big Data Architecture Prototype**: End-to-end system using NiFi for data ingestion, HDFS for storage, and Spark for processing. The project focuses on querying and analyzing structured/unstructured data to extract insights and provide real business value through data analytics.
 
+---
+
+## Recognitions & Highlights
+- 🎤 Speaker at HexTalk (AI topics for 1,000+ global attendees)  
+- 🏆 President’s Club Award at Hexagon  
+- 🚀 €8M+ commercial pipeline generated in <12 months focused on digital solutions: digital twin, document management, and operational excellence software 
+- 👩‍🎓 Current student at IE University (MSc in Data Science, Business Analytics & AI)
+ 
 ---
 
 ## Let's Connect  
@@ -51,12 +59,5 @@ Reach out if you're working on data strategy, AI-driven innovation, or exploring
 - 💼 [LinkedIn](https://www.linkedin.com/in/danielavalentinarivas)  
 
 ---
-
-## GitHub Stats  
-![Daniela's GitHub stats](https://github-readme-stats.vercel.app/api?username=dvrivasf&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvrivasf&layout=compact)  
-
----
-
 ## Visitors  
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=dvrivasf.dvrivasf)
